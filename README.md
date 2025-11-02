@@ -1,2 +1,2 @@
-# asset-cdn
-asset gambar untuk situs 
+# Selamat Datang Di Dunia Tipu Tipu
+Ingat Rasa Lupa Wajah 
